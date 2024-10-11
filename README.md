@@ -63,7 +63,7 @@ A full-stack clone of Netflix with a focus on building a movie streaming platfor
 I'm always open to collaborating on new projects, learning opportunities, or contributing to exciting ideas. Feel free to reach out!
 
 - 🌐 Portfolio: [https://www.mintesnot-portfolio.com/ ]
-- 💼 LinkedIn: [in/mintesnot-kanko-a374615a]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mintesnot-kanko-a374615a/]
 - 📧 Email: [minteka96@yahoo.com]
 
 
