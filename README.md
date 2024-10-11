@@ -41,7 +41,7 @@ A clone of the Amazon e-commerce platform with a focus on the front-end, includi
 A full-stack clone of Netflix with a focus on building a movie streaming platform.
 - **Tech Stack:** React, Firebase, TMDB API
 - **Features:** Browse movies, view details, and play trailers.
-- [🔗 View Repository](https://minteka96.github.io/Netflix-clone-2024/)
+- [🔗 View Repository](https://github.com/minteka96/Netflix-clone-2024)
 ---
 
 ## 💼 Skills & Technologies
